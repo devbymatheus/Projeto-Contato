@@ -31,9 +31,10 @@ Este projeto faz parte da minha jornada de aprendizado em **Desenvolvimento Web*
 
 Este projeto foi desenvolvido como prática durante meus estudos em desenvolvimento web, buscando melhorar habilidades de criação de interfaces e organização de layouts.
 
-## 🔗 Acesse o projeto
+## 🔗 Visualização do Projeto
 
-Repositório no GitHub:  
-https://github.com/devbymatheus/Projeto-Contato
+https://devbymatheus.github.io/Projeto-Contato
 
+## 📸 Preview
 
+![Preview](assets/preview.png)
