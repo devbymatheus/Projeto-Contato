@@ -38,3 +38,4 @@ https://devbymatheus.github.io/Projeto-Contato
 ## 📸 Preview
 
 ![Preview](assets/preview.png)
+![Preview](assets/preview2.png)
